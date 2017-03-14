@@ -3,7 +3,11 @@ Public repository for blog.imnotat.work articles
 
 ## How to contribute
 
-* Navigate to https://github.com/betsythefc/blog.imnoatat.work/tree/staging
+If you are a colaborator:
+
+* Click "Branch: master" in the top left corner, it is a drop down list.
+* Type a name for your branch (try your username or the name of the article you are posting, this branch will get removed when your article/change is accepted)
+* Click "Create branch: [whatever you named it]"
 * Create your article in the folder of the category you want it in.
 * Name the article file properly: this-is-the-article-name.md
 
