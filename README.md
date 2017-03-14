@@ -31,7 +31,7 @@ Public repository for blog.imnotat.work articles
 * Enter any notes on what changes or articles you are submitting.
 * Click the green "Create pull request" button.
 
-Your changes anr articles are now up for review.
+Your changes & articles are now up for review.
 
 ## Formatting quickstart
 
