@@ -3,11 +3,9 @@ Public repository for blog.imnotat.work articles
 
 ## How to contribute
 
-* Create/Put the file in the category folder.
-
+* Navigate to https://github.com/betsythefc/blog.imnoatat.work/tree/staging
+* Create your article in the folder of the category you want it in.
 * Name the article file properly: this-is-the-article-name.md
-
-* Put some metadata at the beginning of your article:
 
 >Title: This is the article name
 
@@ -20,6 +18,20 @@ Public repository for blog.imnotat.work articles
 >Status: draft
 
 `Status: draft` is used so articles are posted to the draft section for proofreading
+
+* Click "Commit changes" at the bottom of the page when you are done writing your article
+
+### To request the article gets published:
+
+* Click the "Pull requests" tab on the top of the page.
+* Click the green "New pull request" button on the top right.
+* Click "Staging" in the list of branches in the center of the screen
+* Ensure the center top of the page says "Able to merge"
+* Click the green "Create pull request" button.
+* Enter any notes on what changes or articles you are submitting.
+* Click the green "Create pull request" button.
+
+Your changes anr articles are now up for review.
 
 ## Formatting quickstart
 
