@@ -1,7 +1,7 @@
 Title: Security vs. Anonymity
 Date: 2017-02-22 15:31
 Category: Security
-Authors: Bryce McNab
+Author: Bryce McNab
 Tags: Encryption, Alice and Bob, Privacy 
 
 With all this hoopla about digital security and privacy circulating recently I thought it might be a good idea to compare and contrast the difference between being _secure_ online and being _anonymous_.

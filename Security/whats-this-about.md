@@ -1,7 +1,7 @@
 Title: What's this security blog about?
 Date: 2017-02-09 06:15
 Category: Security
-Authors: Bryce McNab
+Author: Bryce McNab
 
 Hello! I am Bryce, also known as the "Mad (tin foil) Hatter". I have been interested in internet security and online anonymity for a long time. I hope to be writing about some very interesting things on this part of our blog.
 
