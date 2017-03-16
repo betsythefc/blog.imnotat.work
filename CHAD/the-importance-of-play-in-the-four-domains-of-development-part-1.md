@@ -1,6 +1,7 @@
 Author: Bailey McNab
 Title: The Importance of Play in the Four Domains of Development (Part 1 of 2)
 Date: 3/23/17
+Tags: Essays, Children
 Status: draft
 
 Research has shown that play has become increasingly important in early education. The amount of play in preschools and infant and toddler programs has decreased as the necessity for play in these programs have increased. Children learn through play, and it is extremely important for all domains of development: physical, emotional, social, and cognitive (Winerman, 2009). In this portion of the series, we will be discussing play in two of the domains of development: cognitive/language and physical.
