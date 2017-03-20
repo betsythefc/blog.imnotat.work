@@ -29,7 +29,7 @@ If you are a colaborator:
 
 * Click the "Pull requests" tab on the top of the page.
 * Click the green "New pull request" button on the top right.
-* Click "Staging" in the list of branches in the center of the screen
+* Click "[whatever you named it]" in the list of branches in the center of the screen
 * Ensure the center top of the page says "Able to merge"
 * Click the green "Create pull request" button.
 * Enter any notes on what changes or articles you are submitting.
