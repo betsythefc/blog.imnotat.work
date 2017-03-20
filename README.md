@@ -5,6 +5,8 @@ Public repository for blog.imnotat.work articles
 
 ### If you are already a collaborator:
 
+#### To create a new branch:
+
 * Click "Branch: master" in the top left corner, it is a drop down list.
 * Type a name for your branch (try your username or the name of the article you are posting, this branch will get removed when your article/change is accepted)
 * Click "Create branch: [whatever you named it]"
