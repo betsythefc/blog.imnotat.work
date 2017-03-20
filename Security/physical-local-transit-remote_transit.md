@@ -2,8 +2,8 @@ Title: The 4 stages of data protection: In Transit
 Author: Bryce McNab
 Category: Security
 Tags: Encryption
-Status: draft
-Date: 3/21/17
+Status: published
+Date: 3/20/17
 
 Your computers physical security has been assured, your local digital security is hardened open source encryption. That's all well and good, but how can you be sure the data you are sending to web services isn't hijacked before it gets there by one of those sneaky network snoopers?
 
