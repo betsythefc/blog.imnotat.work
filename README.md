@@ -3,7 +3,7 @@ Public repository for blog.imnotat.work articles
 
 ## How to contribute
 
-If you are a colaborator:
+### If you are already a collaborator:
 
 * Click "Branch: master" in the top left corner, it is a drop down list.
 * Type a name for your branch (try your username or the name of the article you are posting, this branch will get removed when your article/change is accepted)
@@ -25,7 +25,7 @@ If you are a colaborator:
 
 * Click "Commit changes" at the bottom of the page when you are done writing your article
 
-### To request the article gets published:
+#### To request the article gets published:
 
 * Click the "Pull requests" tab on the top of the page.
 * Click the green "New pull request" button on the top right.
@@ -36,6 +36,10 @@ If you are a colaborator:
 * Click the green "Create pull request" button.
 
 Your changes & articles are now up for review.
+
+### If this is your first time:
+
+Instructions coming soon.
 
 ## Formatting quickstart
 
