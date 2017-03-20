@@ -1,7 +1,7 @@
 Title: The 4 stages of data protection: In Transit
 Author: Bryce McNab
 Category: Security
-Tags: Alice and Bob, Encryption
+Tags: Encryption
 Status: draft
 Date: 3/21/17
 
