@@ -1,6 +1,6 @@
 Author: Bailey McNab
 Title: Living the Chronic Pain Life
-Date: 3/16/17
+Date: 3/21/17
 Status: draft
 
 # What is chronic pain?
