@@ -43,17 +43,30 @@ Knowledge is key. According to a study described by Baojin Ding in 2015, parents
 It is highly recommended that parents need to take a break from the entire scene for a while. Programs such as Respit care, childcare provided by the family’s health care provider, provide services to help parents get a break. Respit care will pay for caregivers to come into the family’s home while the parents can take a break. This opportunity is important for husbands and wives to reconnect with one another and relax. Respit care should not be used so parents can take time to restore the house or complete work because that is not the objective. The objective of Respit care is to decrease parental stress which is supposed to positively effect family functioning. In other words, it indirectly effects the child in a positive way. Other early intervention programs for parents can include therapy, parental support groups, and classes or seminars about children with ASD.
 
 Autism Spectrum Disorder can have a huge impact on many families. The disorder can effect parenting styles, family functioning, and parental stress. These three factors need to have a positive impact on the children with ASD. The child affected will thrive if the conditions are in a positive cycle. If not, it is important to recognize that there are different methods to creating a positive environment for the children with ASD.
->References
+
+### References
 >Alli, A., Abdoola, S., & Mupawose, A. (2015). Parents' journey into the world of 	autism. South African Journal of Child Health, 9(3), 81-84. 	doi:10.7196/SAJCH.7942
+
 >Bader, S., & Barry, T. (2014). A longitudinal examination of the relation between 	parental expressed emotion and externalizing behaviors in children and adolescents 	with autism spectrum disorder. Journal of Autism & Developmental 	Disorders, 44(11), 2820-2831. doi:10.1007/s10803-014-2142-6
+
 >Ding, B. (2015). How to assist parents of children with autism spectrum disorders in rural 	area? Journal of Neurosciences in Rural Practice, 6(4), 465-466. 	doi:10.4103/0976-3147.169776
+
 >Ekas, N. V., & Whitman, T. L. 1. (2011). Adaptation to daily stress among mothers of 	children with an autism spectrum disorder: The role of daily positive affect. Journal 	of Autism & Developmental Disorders, 41(9), 1202-1213. 	doi:10.1007/s10803-010-1142-4
+
 >Haven, E. L., Manangan, C. N., Sparrow, J. K., & Wilson, B. J. (2014). The relation of 	parent-child interaction qualities to social skills in children with and without autism 	spectrum disorders. Autism: The International Journal of Research and 	Practice, 18(3), 292-300. Retrieved from http://libaccess.sjlibrary.org
+
 >Hastings, R.P., Kovshoff, H., Brown, T., Ward, N.J., Degli Espinosa, F. & Remington, B. 	(2005). Coping strategies in mothers and fathers of preschool and school-age 	children with autism. Autism, 9(4), 377–391.
+
 >Jellett, R., Wood, C. E., Giallo, R., & Seymour, M. (2015). Family functioning and 	behaviour problems in children with autism spectrum disorders: The mediating role 	of parent mental health. Clinical Psychologist, 19(1), 39-48. doi:10.1111/cp.12047
+
 >Mohammadi, M., & Zarafshan, H. (2014). Family function, parenting style and broader 	autism phenotype as predicting factors of psychological adjustment in typically 	developing siblings of children with autism spectrum disorders. Iranian Journal of 	Psychiatry, 9(2), 55-63. Retrieved from http://libaccess.sjlibrary.org
+
 >Mount, N., & Dillon, G. (2014). Parents' experiences of living with an adolescent 	diagnosed with an autism spectrum disorder. Educational & Child Psychology, 31(4), 	72-81. Retrieved from http://libaccess.sjlibrary.org
+
 >Patra, S., Arun, P., & Chavan, B. S. (2015). Impact of psychoeducation intervention 	module on parents of children with autism spectrum disorders: A preliminary 	study. Journal of Neurosciences in Rural Practice, 6(4), 529-535. 	doi:10.4103/0976-3147.165422
+
 >Twoy, R., Connolly, P.M. & Novak, J.M. (2007). Coping strategies used by parents of 		children with autism. Journal of the American Academy of Nurse Practitioners, 19(5), 	251–260
+
 >Vatanoglu- Lutz, E., Ataman, A. D., & Bicer, S. (2014). Medicine in stamps: History of 	autism spectrum disorder (ASD) through philately. Journal of Neurological 	Sciences, 31(2), 426-434. Retrieved from http://libaccess.sjlibrary.org
+
 >Zhou, T., & Yi, C. (2014). Parenting styles and parents' perspectives on how their own 	emotions affect the functioning of children with autism spectrum disorders. Family 	Process, 53(1), 67-79. doi:10.1111/famp.12058
