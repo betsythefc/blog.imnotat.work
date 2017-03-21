@@ -1,7 +1,7 @@
 Author: Bailey McNab
 Title: Living the Chronic Pain Life
 Date: 3/21/17
-Status: draft
+Status: Published
 
 # What is chronic pain?
 Chronic pain can come in so many forms. Believe it or not, there is an exact time line to when doctors determine whether pain is chronic or acute, (lifelong or ending in a short period of time). Acute pain is pain felt when someone breaks a bone or sprains a joint. These are situations in which people explain acute pain. Chronic pain is pain that lasts more than six months. This is a different kind of pain. This is pain that can be managed by multiple routes such as physical therapy, medication, yoga, stretching, and much more. The reality of it is that it is chronic which means lifelong!
