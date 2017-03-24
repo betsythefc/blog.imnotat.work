@@ -1,7 +1,8 @@
-Status: draft
+Status: published
 Title: Your Browser History, going once, going twice, Sold
 Author: Bryce McNab
 Tags: Politics, Privacy
+Date: 03/24/17
 
 # The Senate
 I'm not a big fan of talking politics, but of course with this recent election, and the republican dominated house and senate, there are some very concerning policies coming up that will damage many things from privacy to healthcare. 
