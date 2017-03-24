@@ -21,6 +21,10 @@ As a _heavy_ privacy and security advocate, I am very, very worried and angry th
 
 Now I am very _pissed_ at this. It is hard to tell you how much anger I have towards groups that actively fight the privacy of individuals, no matter the reason. And this is another blatant attempt to continue making a state of constant surveillance. We must always continue fighting these types of regulations and always favor the privacy of the private citizen over the profits of the public companies.
 
+What's even worse, this bill includes language to prevent the FCC from making rules against this in the furture!
+
 # But there is hope
 
 Alas, there is something you can do! The [EFF (Electronic Frontier Foundation)](https://www.eff.org) is an organization dedicated to supporting digital security and privacy online. I would highly recomend that you read their [article](https://www.eff.org/deeplinks/2017/03/senate-puts-isp-profits-over-your-privacy) on the subject, donate to the EFF, and contact the [house representatives](https://act.eff.org/action/don-t-let-congress-undermine-our-online-privacy) to tell them to put a stop to this measure.
+
+UPDATE: The house's vote has been [scheduled for next week!](https://www.eff.org/deeplinks/2017/03/congress-debates-reversing-course-decades-consumer-privacy-protections) Call your reps!
