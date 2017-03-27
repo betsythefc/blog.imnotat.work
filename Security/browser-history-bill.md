@@ -2,7 +2,7 @@ Title: Indepth view on the browser history bill (S. J. RES. 34 of the 115th cong
 Author: Bryce McNab
 Date: 3/30/17
 Tags: Politics, Privacy
-Status: publish`
+Status: published
 
 # The Bill
 S. J. RES. 34 (Senate Joint Resolution #34) is the bill put forth by the Senate that would restrice the power of the FCC and allow ISP (Internet Service Providers) the freedom to monitor, collect, store and sell all of your browsing history. I wanted to write a quick rundown of what this bill does, and emphasize some of the terrible repercussions it will have.
