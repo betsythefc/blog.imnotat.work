@@ -22,24 +22,24 @@ Congress doesn't like the rule, and wants it removed from active law.
 
 This is congress trying to remove this rule, and most people have been focusing on Subpart U, section n (Page 70):
 
->##Subpart U—Protecting Customer Information
->...
->(n) 
->Sensitive customer proprietary 
->information. 
->The terms ‘‘sensitive 
->customer proprietary information’’ or 
->‘‘sensitive customer PI’’ include: 
->(1) Financial information; 
->(2) Health information; 
->(3) Information pertaining to children; 
->(4) Social Security numbers; 
+>##Subpart U—Protecting Customer Information<br />
+>...<br />
+>(n) <br />
+>Sensitive customer proprietary<br /> 
+>information. <br />
+>The terms ‘‘sensitive<br /> 
+>customer proprietary information’’ or<br /> 
+>‘‘sensitive customer PI’’ include: <br />
+>(1) Financial information; <br />
+>(2) Health information; <br />
+>(3) Information pertaining to children; <br />
+>(4) Social Security numbers; <br />
 >(5) Precise geo-location information; 
->(6) Content of communications; 
->(7) Call detail information; and 
->(8) Web browsing history, application 
->usage history, and the functional 
->equivalents of either.
+>(6) Content of communications; <br />
+>(7) Call detail information; and <br />
+>(8) Web browsing history, application <br />
+>usage history, and the functional <br />
+>equivalents of either.<br />
 
 These definitions are very important to the US public, as it now means that ISPs can monitor, collect, store and sell all of the above information, without your consent, to anybody they like (most likely marketing firms, but also state actors).
 
