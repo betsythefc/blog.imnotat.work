@@ -46,3 +46,5 @@ These definitions are very important to the US public, as it now means that ISPs
 This resolution would nullify [81 Fed. Reg. 87274](https://www.gpo.gov/fdsys/pkg/FR-2016-12-02/pdf/2016-28006.pdf) (The PDF above), and open up ISPs to add another revenue stream to their portfolio. One of the arguments I have heard is that this will lower the cost of internet service to everyone, as the ISPs will have more income. I think this is pretty obviously incorrect, as ISPs have been gouging customers for years to increase profits. I think we will see no change to current internet access costs, and massive revenues for ISPs.
 
 [Please contact your representative in the house to fight this bill](https://act.eff.org/action/don-t-let-congress-undermine-our-online-privacy)
+
+EDIT: Here is a good article from the [EFF detailing some of the falsehoods the telecommunications industry is using to convince congress](https://www.eff.org/deeplinks/2017/03/three-myths-telecom-industry-using-convince-congress-repeal-fccs-privacy-rules#myth3)
