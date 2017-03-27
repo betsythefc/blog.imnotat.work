@@ -23,7 +23,6 @@ Congress doesn't like the rule, and wants it removed from active law.
 This is congress trying to remove this rule, and most people have been focusing on Subpart U, section n (Page 70):
 
 >##Subpart U—Protecting Customer Information<br />
->...<br />
 >(n) <br />
 >Sensitive customer proprietary<br /> 
 >information. <br />
