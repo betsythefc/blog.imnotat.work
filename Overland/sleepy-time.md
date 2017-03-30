@@ -25,7 +25,7 @@ This is a decent design (in my humble opinion) but I want into a few issues:
 
 Arguably the last point is a pro, as it seems inexpensive, however if I can build it for cheaper without comprimising strength, it'll make the wallet a little happier.
 
-My current design, which I have been working hard are re-doing but can't find a proper solution is: 
+My current design, which I have been working hard are re-doing but can't find a better solution: 
 
 <img src="https://i.imgur.com/ZC63qLM.jpg" width="600" />
 
