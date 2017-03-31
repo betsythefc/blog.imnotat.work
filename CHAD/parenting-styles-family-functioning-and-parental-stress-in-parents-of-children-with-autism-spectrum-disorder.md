@@ -71,19 +71,4 @@ Autism Spectrum Disorder can have a huge impact on many families. The disorder c
 
 >Zhou, T., & Yi, C. (2014). Parenting styles and parents' perspectives on how their own 	emotions affect the functioning of children with autism spectrum disorders. Family 	Process, 53(1), 67-79. doi:10.1111/famp.12058
 
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/blob/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)
 >[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)

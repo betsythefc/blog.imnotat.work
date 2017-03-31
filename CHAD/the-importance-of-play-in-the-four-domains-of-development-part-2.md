@@ -63,19 +63,4 @@ Winerman, L. (2009). Playtime in Peril. American Psychological Association. Retr
 Wyss, N. M., Kannass, K. N., & Haden, C. A. (2013). The effects of distraction on cognitive task performance during toddlerhood. Infancy, 18(4), 604-628. doi:10.1111/j.1532-7078.2012.00128.x
 Vaillant-Molina, M. v., & Bahrick, L. E. (2012). The Role of Intersensory Redundancy in the Emergence of Social Referencing in 5 1/2-Month-Old Infants. Developmental Psychology, 48(1), 1-9.
 
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/blob/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
 >[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)

@@ -1,7 +1,7 @@
 Title: Sleepy time design
 Author: Bryce McNab
 Tags: FC-170, Builds
-Date: 4/1/17
+Date: 3/30/17
 Status: published
 
 Every project, especially those on a budget, have lulls in activity because of the budget. I am in the middle of one of these lulls as I wait to save some money for the next batch of parts. In these "valleys", I spend my time agonizing over small design details and building my overall plan for Betsy. The main plan I have been re-architecting is the sleeping platform in the bed of the truck.

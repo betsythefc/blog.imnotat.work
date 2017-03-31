@@ -1,6 +1,6 @@
 Title: Indepth view on the browser history bill (S. J. RES. 34 of the 115th congress)
 Author: Bryce McNab
-Date: 3/30/17
+Date: 3/29/17
 Tags: Politics, Privacy
 Status: published
 
