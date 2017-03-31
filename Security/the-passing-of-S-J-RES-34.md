@@ -2,7 +2,7 @@ Title: The passing of S. J. RES. 34
 Author: Bryce McNab
 Tags: Politics, Privacy
 Date: 4/1/17
-Status: draft
+Status: published
 
 I am a few days late to the "party", but I wanted to do a follow up after a bit of research. As anyone who is interested in privacy and security in the digital age will know, S. J. RES. 34 (Senate Joint Resolution #34) passed the house riding solely on the GOP majority. 
 
@@ -19,4 +19,3 @@ This is a big federal knockout against privacy as it solidifies the current stat
 Things of this nature are not for everyone because every one of the options I listed is time consuming or technically difficult with some serious user experience downsides (like speed).
 
 I plan to keep up to date on this issue and post more articles (hopefully the happier kind that gives people their privacy back).
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/Security/the-passing-of-S-J-RES-34.md)
