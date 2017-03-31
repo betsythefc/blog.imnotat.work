@@ -16,7 +16,7 @@ Then I would have a custom built plywood top to cover the gaps and make a solid 
 
 <img src="https://i.imgur.com/E6g2nkd.jpg" width="600" />
 
-This is a decent design (in my humble opinion) but I want into a few issues:
+This is a decent design (in my humble opinion) but I ran into a few issues:
 
 + The support beams on the side of the bed, which I will be using to mount the platform, won't snugly fit the 2x4 supports, so there will be wiggle throughout the frame.
 + Storing the 2x4 mounts in the fashion shown in the picture above would require an over-engineered solution that is unsightly and space innefficient
@@ -25,7 +25,7 @@ This is a decent design (in my humble opinion) but I want into a few issues:
 
 Arguably the last point is a pro, as it seems inexpensive, however if I can build it for cheaper without comprimising strength, it'll make the wallet a little happier.
 
-My current design, which I have been working hard are re-doing but can't find a better solution: 
+My current design, solves all of these problems:: 
 
 <img src="https://i.imgur.com/ZC63qLM.jpg" width="600" />
 
