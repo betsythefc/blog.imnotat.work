@@ -84,3 +84,4 @@ Autism Spectrum Disorder can have a huge impact on many families. The disorder c
 >[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)
 >[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)
 >[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)
+>[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/parenting-styles-family-functioning-and-parental-stress-in-parents-of-children-with-autism-spectrum-disorder.md)
