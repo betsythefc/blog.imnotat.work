@@ -1,7 +1,7 @@
 Title: The passing of S. J. RES. 34
 Author: Bryce McNab
 Tags: Politics, Privacy
-Date: 4/1/17
+Date: 3/31/17
 Status: published
 
 I am a few days late to the "party", but I wanted to do a follow up after a bit of research. As anyone who is interested in privacy and security in the digital age will know, S. J. RES. 34 (Senate Joint Resolution #34) passed the house riding solely on the GOP majority. 
