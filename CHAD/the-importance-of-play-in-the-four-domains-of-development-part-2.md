@@ -72,3 +72,5 @@ Vaillant-Molina, M. v., & Bahrick, L. E. (2012). The Role of Intersensory Redund
 >[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
 >[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
 >[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
+>[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
+>[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-2.md)
