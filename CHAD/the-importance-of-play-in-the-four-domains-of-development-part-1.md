@@ -1,6 +1,6 @@
 Author: Bailey McNab
 Title: The Importance of Play in the Four Domains of Development (Part 1 of 2)
-Date: 3/23/17
+Date: 4/3/2017
 Tags: Essays, Children
 Status: draft
 
@@ -30,7 +30,7 @@ Research has shown that distraction has a negative effect on toddlers’ ability
 
 # Physical Development
 
-Physical development of young children can be divided into two types: fine motor development and gross motor development. Fine motor development is the development of small muscle groups. Activities that are helpful for fine motor development are writing, playing with mold-able material, and working with snaps, buttons, or zippers. Gross motor development is the development of large muscle groups. Activities that are helpful for gross motor development are running, climbing, and jumping. It may seem easier to create activities of play for the physical domain. Games such as tag, chase, or hide and seek are all very common and popular games that facilitate physical development. However, the physical domain can require more than just running or writing. It is important and simple to incorporate play within the parameters of the physical domain. Almost any activity will require fine and gross motor skills.
+>Physical development of young children can be divided into two types: fine motor development and gross motor development. Fine motor >development is the development of small muscle groups. Activities that are helpful for fine motor development are writing, playing with >mold-able material, and working with snaps, buttons, or zippers. Gross motor development is the development of large muscle groups. Activities that are helpful for gross motor development are running, climbing, and jumping. It may seem easier to create activities of play for the physical domain. Games such as tag, chase, or hide and seek are all very common and popular games that facilitate physical development. However, the physical domain can require more than just running or writing. It is important and simple to incorporate play within the parameters of the physical domain. Almost any activity will require fine and gross motor skills.
 
 Not only do educators and parents need to make sure there is physical activities for the infants and toddlers to do that are developmentally appropriate, but infants and toddlers also need to be eating well in order to achieve their physical development (Deiner & Wei, 2007). Children need to be growing, but as they grow, they need a balanced and healthy diet. This will help children fight obesity, have better mood levels, and are more likely to succeed cognitively and socially. 
 References
