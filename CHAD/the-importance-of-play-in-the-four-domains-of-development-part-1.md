@@ -35,21 +35,35 @@ Physical development of young children can be divided into two types: fine motor
 Not only do educators and parents need to make sure there is physical activities for the infants and toddlers to do that are developmentally appropriate, but infants and toddlers also need to be eating well in order to achieve their physical development (Deiner & Wei, 2007). Children need to be growing, but as they grow, they need a balanced and healthy diet. This will help children fight obesity, have better mood levels, and are more likely to succeed cognitively and socially. 
 
 References
->Crugnola, C. R., Gazzotti, S., Spinelli, M., Ierardi, E., Caprin, C., & Albizzati, A. (2013). Maternal attachment influences mother–>infant styles of regulation and play with objects at nine months. Attachment & Human Development, 15(2), 107-131. >doi:10.1080/14616734.2013.745712
->Deiner, P. L., & Wei, Q. (2007). Embedding Physical Activity and Nutrition in Early Care and Education Programs. Zero To Three,28(1), >13-18.
->DiCarlo, C. F., Onwujuba, C., & Baumgartner, J. I. (2014). Infant Communicative Behaviors and Maternal Responsiveness. Child & Youth >Care Forum, 43(2), 195-209.
->Engel, M. (2015). The importance of free play in the early childhood classroom: Perspectives from a teacher.Childhood Education, 91(5), >323-324. Retrieved from http://libaccess.sjlibrary.org
->Lillard, A. S., Lerner, M. D., Hopkins, E. J., Dore, R. A., Smith, E. D., & Palmquist, C. M. (2013). The impact of pretend play on >children's development: A review of the evidence. Psychological Bulletin, 139(1), 1-34. Retrieved from http://libaccess.sjlibrary.org
->McFadden, K. E., & Tamis-Lemonda, C. S. (2013). Maternal Responsiveness, Intrusiveness, and Negativity During Play with Infants: >Contextual Associations and Infant Cognitive Status in A Low-Income Sample. Infant Mental Health Journal, 34(1), 80-92. >doi:10.1002/imhj.21376
->Nakagawa, A., & Sukigara, M. (2014). The Effects of Soothing Techniques and Rough-and-Tumble Play on the Early Development of >Temperament: A Longitudinal Study of Infants. Child Development Research, 1-10. doi:10.1155/2014/741373
->Nichols, S. R., Svetlova, M., & Brownell, C. A. (2010). Toddlers’ Understanding of Peers’ Emotions. Journal Of Genetic >Psychology,171(1), 35-53.
->Orr, E., & Geva, R. (2015). Symbolic play and language development. Infant Behavior & Development, 38147-161. >doi:10.1016/j.infbeh.2015.01.002
->Raphael-Leff, J. (2012). 'Terrible twos' and 'terrible teens': The importance of play. Journal Of Infant, Child & Adolescent >Psychotherapy, 11(4), 299-315. doi:10.1080/15289168.2012.732841
->Reikeras, E., Loge, I. K., & Knivsberg, A. (2012). The Mathematical Competencies of 	Toddlers Expressed in Their Play and Daily Life >Activities in Norwegian 	Kindergartens. International Journal Of Early Childhood, 44(1), 91-114.
->Shin, M. (2012). The Role of Joint Attention in Social Communication and Play among Infants. Journal Of Early Childhood Research,10(3), >309-317.
->Sossin, K. M., & Cohen, P. (2011). Children's play in the wake of loss and trauma. Journal Of Infant, Child & Adolescent >Psychotherapy, 10(2-3), 255-272. doi:10.1080/15289168.2011.600137
->Winerman, L. (2009). Playtime in Peril. American Psychological Association. Retrieved from print version: page 50.
->Wyss, N. M., Kannass, K. N., & Haden, C. A. (2013). The effects of distraction on cognitive task performance during >toddlerhood. Infancy, 18(4), 604-628. doi:10.1111/j.1532-7078.2012.00128.x
->Vaillant-Molina, M. v., & Bahrick, L. E. (2012). The Role of Intersensory Redundancy in the Emergence of Social Referencing in 5 1/2->Month-Old Infants. Developmental Psychology, 48(1), 1-9
 
->[Click here to edit](https://github.com/betsythefc/blog.imnotat.work/tree/master/CHAD/the-importance-of-play-in-the-four-domains-of-development-part-1.md)
+>Crugnola, C. R., Gazzotti, S., Spinelli, M., Ierardi, E., Caprin, C., & Albizzati, A. (2013). Maternal attachment influences mother�->infant styles of regulation and play with objects at nine months. Attachment & Human Development, 15(2), 107-131. >doi:10.1080/14616734.2013.745712
+
+>Deiner, P. L., & Wei, Q. (2007). Embedding Physical Activity and Nutrition in Early Care and Education Programs. Zero To Three,28(1), >13-18.
+
+>DiCarlo, C. F., Onwujuba, C., & Baumgartner, J. I. (2014). Infant Communicative Behaviors and Maternal Responsiveness. Child & Youth >Care Forum, 43(2), 195-209.
+
+>Engel, M. (2015). The importance of free play in the early childhood classroom: Perspectives from a teacher.Childhood Education, 91(5), >323-324. Retrieved from http://libaccess.sjlibrary.org
+
+>Lillard, A. S., Lerner, M. D., Hopkins, E. J., Dore, R. A., Smith, E. D., & Palmquist, C. M. (2013). The impact of pretend play on >children's development: A review of the evidence. Psychological Bulletin, 139(1), 1-34. Retrieved from http://libaccess.sjlibrary.org
+
+>McFadden, K. E., & Tamis-Lemonda, C. S. (2013). Maternal Responsiveness, Intrusiveness, and Negativity During Play with Infants: >Contextual Associations and Infant Cognitive Status in A Low-Income Sample. Infant Mental Health Journal, 34(1), 80-92. >doi:10.1002/imhj.21376
+
+>Nakagawa, A., & Sukigara, M. (2014). The Effects of Soothing Techniques and Rough-and-Tumble Play on the Early Development of >Temperament: A Longitudinal Study of Infants. Child Development Research, 1-10. doi:10.1155/2014/741373
+
+>Nichols, S. R., Svetlova, M., & Brownell, C. A. (2010). Toddlers’ Understanding of Peers’ Emotions. Journal Of Genetic >Psychology,171(1), 35-53.
+
+>Orr, E., & Geva, R. (2015). Symbolic play and language development. Infant Behavior & Development, 38147-161. >doi:10.1016/j.infbeh.2015.01.002
+
+>Raphael-Leff, J. (2012). 'Terrible twos' and 'terrible teens': The importance of play. Journal Of Infant, Child & Adolescent >Psychotherapy, 11(4), 299-315. doi:10.1080/15289168.2012.732841
+
+>Reikeras, E., Loge, I. K., & Knivsberg, A. (2012). The Mathematical Competencies of 	Toddlers Expressed in Their Play and Daily Life >Activities in Norwegian 	Kindergartens. International Journal Of Early Childhood, 44(1), 91-114.
+
+>Shin, M. (2012). The Role of Joint Attention in Social Communication and Play among Infants. Journal Of Early Childhood Research,10(3), >309-317.
+
+>Sossin, K. M., & Cohen, P. (2011). Children's play in the wake of loss and trauma. Journal Of Infant, Child & Adolescent >Psychotherapy, 10(2-3), 255-272. doi:10.1080/15289168.2011.600137
+
+>Winerman, L. (2009). Playtime in Peril. American Psychological Association. Retrieved from print version: page 50.
+
+>Wyss, N. M., Kannass, K. N., & Haden, C. A. (2013). The effects of distraction on cognitive task performance during toddlerhood. Infancy, 18(4), 604-628. doi:10.1111/j.1532-7078.2012.00128.x
+
+>Vaillant-Molina, M. v., & Bahrick, L. E. (2012). The Role of Intersensory Redundancy in the Emergence of Social Referencing in 5 1/2->Month-Old Infants. Developmental Psychology, 48(1), 1-9
