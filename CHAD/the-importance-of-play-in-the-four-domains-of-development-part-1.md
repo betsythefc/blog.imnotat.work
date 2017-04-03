@@ -8,7 +8,7 @@ Research has shown that play has become increasingly important in early educatio
 
 # Background
 
-It has been difficult to clearly define play in its true form. Play has four main characteristics: flexibility, nonliterality, positive affect, and the use of intrinsic motivation (Lillard, Lerner, Hopkins, Dore, Smith, & Palmquist, 2012). Flexibility means that play can happen anywhere at anytime. Nonliterality is when play becomes pretend. Objects often have different uses, or â€œbehaviors lack their usual meaning,â€ (Lillard et. al., 2015, p 2). Positive affect is shown when the child is smiling or laughing while playing and they are experiencing a positive activity. Lastly, play is recognized when intrinsic motivation, which is otherwise referred to as volunteerism of a certain activity, is used.  
+It has been difficult to clearly define play in its true form. Play has four main characteristics: flexibility, nonliterality, positive affect, and the use of intrinsic motivation (Lillard, Lerner, Hopkins, Dore, Smith, & Palmquist, 2012). Flexibility means that play can happen anywhere at anytime. Nonliterality is when play becomes pretend. Objects often have different uses, or behaviors lack their usual meaning (Lillard et. al., 2015, p 2). Positive affect is shown when the child is smiling or laughing while playing and they are experiencing a positive activity. Lastly, play is recognized when intrinsic motivation, which is otherwise referred to as volunteerism of a certain activity, is used.  
 
 # Cognitive/Language Development
 
@@ -20,13 +20,13 @@ When one thinks about problem solving, they are usually thinking about math. The
 
 ## Language
 
-Orr and Geva (2015) state that language development and pretend play are closely interrelated. Pretend play involves children creating mental images of objects or events and the language coincides with the mental representations. Pretend play may also include more than one child. In this scenario, children are talking while pretending, and learning from one another. In Orr and Gevaâ€™s (2015) study, they examined infants in a play-based setting. They concluded that when infants were playing with audible toys (such as rattles) and babbling, these actions preceded speech which began around 12 months of age (Orr & Geva, 2015).
+Orr and Geva (2015) state that language development and pretend play are closely interrelated. Pretend play involves children creating mental images of objects or events and the language coincides with the mental representations. Pretend play may also include more than one child. In this scenario, children are talking while pretending, and learning from one another. In Orr and Gevas (2015) study, they examined infants in a play-based setting. They concluded that when infants were playing with audible toys (such as rattles) and babbling, these actions preceded speech which began around 12 months of age (Orr & Geva, 2015).
 
-Orr and Geva (2015) also make an argument that babbling may not lead to language, but it may lead to the motor activity involved in speaking. They state that the materials and events around the child are what assists directly with language development; this includes symbolic play. There are three hypotheses that contain information about how language is related to the play of one, two, or three objects. The first is the â€œDirect-Path Hypothesisâ€. This is the belief that babbling and single-object play lead to speech. The â€œIndirect-Path Hypothesisâ€ states that babbling helps with speech and that speech leads to all kinds of play. The last hypothesis is the â€œDual-Path Hypothesisâ€ which states that babbling leads to speech, but that speech leads to the play of multiple objects instead of just one object (Orr & Geva, 2015). These three hypotheses are to be considered while studying infants and toddlers as they begin to hit the milestones of language development.
+Orr and Geva (2015) also make an argument that babbling may not lead to language, but it may lead to the motor activity involved in speaking. They state that the materials and events around the child are what assists directly with language development; this includes symbolic play. There are three hypotheses that contain information about how language is related to the play of one, two, or three objects. The first is the Direct-Path Hypothesis. This is the belief that babbling and single-object play lead to speech. The Indirect-Path Hypothesis states that babbling helps with speech and that speech leads to all kinds of play. The last hypothesis is the Dual-Path Hypothesis which states that babbling leads to speech, but that speech leads to the play of multiple objects instead of just one object (Orr & Geva, 2015). These three hypotheses are to be considered while studying infants and toddlers as they begin to hit the milestones of language development.
 
-## Distractionâ€™s effect on play
+## Distractions effect on play
 
-Research has shown that distraction has a negative effect on toddlersâ€™ ability to develop cognitively. A study conducted by Wyss, Kannass,and Haden (2013) investigated whether or not toddlers were affected by distractions. Two groups of toddlers were placed in two different learning environments: one room with distractions and another without distractions. The study concluded that the toddlers who were presented with a person moving within their peripheral vision, had a difficult time concentrating on the given tasks. The researchers gave each child eight tasks that were in different categories of learning: problem solving, categorization, memory, and free play (Wyss, Kannass,and Haden, 2013). In general, during the free-play task, toddlers were much more attentive. In the â€œDistraction roomâ€, there was a positive correlation between the distractions and lowered quality of task performance (Wyss, Kannass,and Haden, 2013). This research is important because it shows that children who are presented with distractions (most commonly with technology) have a lowered attention span on  even the most playful activities. Some people may think that play contains much free play, when in reality it can be structured and quiet activities that lead to the development of cognition. 
+Research has shown that distraction has a negative effect on toddlers ability to develop cognitively. A study conducted by Wyss, Kannass,and Haden (2013) investigated whether or not toddlers were affected by distractions. Two groups of toddlers were placed in two different learning environments: one room with distractions and another without distractions. The study concluded that the toddlers who were presented with a person moving within their peripheral vision, had a difficult time concentrating on the given tasks. The researchers gave each child eight tasks that were in different categories of learning: problem solving, categorization, memory, and free play (Wyss, Kannass,and Haden, 2013). In general, during the free-play task, toddlers were much more attentive. In the Distraction room, there was a positive correlation between the distractions and lowered quality of task performance (Wyss, Kannass,and Haden, 2013). This research is important because it shows that children who are presented with distractions (most commonly with technology) have a lowered attention span on  even the most playful activities. Some people may think that play contains much free play, when in reality it can be structured and quiet activities that lead to the development of cognition. 
 
 # Physical Development
 
@@ -36,34 +36,34 @@ Not only do educators and parents need to make sure there is physical activities
 
 References
 
->Crugnola, C. R., Gazzotti, S., Spinelli, M., Ierardi, E., Caprin, C., & Albizzati, A. (2013). Maternal attachment influences motherâ->infant styles of regulation and play with objects at nine months.Â Attachment & Human Development,Â 15(2), 107-131. >doi:10.1080/14616734.2013.745712
+>Crugnola, C. R., Gazzotti, S., Spinelli, M., Ierardi, E., Caprin, C., & Albizzati, A. (2013). Maternal attachment influences mother-infant styles of regulation and play with objects at nine months  Attachment & Human Development  15(2), 107-131. doi:10.1080/14616734.2013.745712
 
->Deiner, P. L., & Wei, Q. (2007). Embedding Physical Activity and Nutrition in Early Care and Education Programs.Â Zero To Three,28(1), >13-18.
+>Deiner, P. L., & Wei, Q. (2007). Embedding Physical Activity and Nutrition in Early Care and Education Programs  Zero To Three,28(1), >13-18.
 
->DiCarlo, C. F., Onwujuba, C., & Baumgartner, J. I. (2014). Infant Communicative Behaviors and Maternal Responsiveness.Â Child & Youth >Care Forum,Â 43(2), 195-209.
+>DiCarlo, C. F., Onwujuba, C., & Baumgartner, J. I. (2014). Infant Communicative Behaviors and Maternal Responsiveness  Child & Youth Care Forum  43(2), 195-209.
 
->Engel, M. (2015). The importance of free play in the early childhood classroom: Perspectives from a teacher.Childhood Education,Â 91(5), >323-324. Retrieved fromÂ http://libaccess.sjlibrary.org
+>Engel, M. (2015). The importance of free play in the early childhood classroom: Perspectives from a teacher.Childhood Education  91(5), 323-324. Retrieved from  http://libaccess.sjlibrary.org
 
->Lillard, A. S., Lerner, M. D., Hopkins, E. J., Dore, R. A., Smith, E. D., & Palmquist, C. M. (2013). The impact of pretend play on >children's development: A review of the evidence.Â Psychological Bulletin,Â 139(1), 1-34. Retrieved fromÂ http://libaccess.sjlibrary.org
+>Lillard, A. S., Lerner, M. D., Hopkins, E. J., Dore, R. A., Smith, E. D., & Palmquist, C. M. (2013). The impact of pretend play on children's development: A review of the evidence  Psychological Bulletin  139(1), 1-34. Retrieved fromÂ  http://libaccess.sjlibrary.org
 
->McFadden, K. E., & Tamis-Lemonda, C. S. (2013). Maternal Responsiveness, Intrusiveness, and Negativity During Play with Infants: >Contextual Associations and Infant Cognitive Status in A Low-Income Sample.Â Infant Mental Health Journal,Â 34(1), 80-92. >doi:10.1002/imhj.21376
+>McFadden, K. E., & Tamis-Lemonda, C. S. (2013). Maternal Responsiveness, Intrusiveness, and Negativity During Play with Infants: Contextual Associations and Infant Cognitive Status in A Low-Income Sample  Infant Mental Health Journal  34(1), 80-92. doi:10.1002/imhj.21376
 
->Nakagawa, A., & Sukigara, M. (2014). The Effects of Soothing Techniques and Rough-and-Tumble Play on the Early Development of >Temperament: A Longitudinal Study of Infants.Â Child Development Research, 1-10. doi:10.1155/2014/741373
+>Nakagawa, A., & Sukigara, M. (2014). The Effects of Soothing Techniques and Rough-and-Tumble Play on the Early Development of Temperament: A Longitudinal Study of Infants  Child Development Research, 1-10. doi:10.1155/2014/741373
 
->Nichols, S. R., Svetlova, M., & Brownell, C. A. (2010). Toddlersâ€™ Understanding of Peersâ€™ Emotions.Â Journal Of Genetic >Psychology,171(1), 35-53.
+>Nichols, S. R., Svetlova, M., & Brownell, C. A. (2010). Toddlers Understanding of Peers Emotions  Journal Of Genetic Psychology,171(1), 35-53.
 
->Orr, E., & Geva, R. (2015). Symbolic play and language development.Â Infant Behavior & Development,Â 38147-161. >doi:10.1016/j.infbeh.2015.01.002
+>Orr, E., & Geva, R. (2015). Symbolic play and language development  Infant Behavior & Development  38147-161. doi:10.1016/j.infbeh.2015.01.002
 
->Raphael-Leff, J. (2012). 'Terrible twos' and 'terrible teens': The importance of play.Â Journal Of Infant, Child & Adolescent >Psychotherapy,Â 11(4), 299-315. doi:10.1080/15289168.2012.732841
+>Raphael-Leff, J. (2012). 'Terrible twos' and 'terrible teens': The importance of play  Journal Of Infant, Child & Adolescent Psychotherapy 11(4), 299-315. doi:10.1080/15289168.2012.732841
 
->Reikeras, E., Loge, I. K., & Knivsberg, A. (2012). The Mathematical Competencies of 	Toddlers Expressed in Their Play and Daily Life >Activities in Norwegian 	Kindergartens.Â International Journal Of Early Childhood,Â 44(1), 91-114.
+>Reikeras, E., Loge, I. K., & Knivsberg, A. (2012). The Mathematical Competencies of Toddlers Expressed in Their Play and Daily Life Activities in Norwegian Kindergartens  International Journal Of Early Childhood  44(1), 91-114.
 
->Shin, M. (2012). The Role of Joint Attention in Social Communication and Play among Infants.Â Journal Of Early Childhood Research,10(3), >309-317.
+>Shin, M. (2012). The Role of Joint Attention in Social Communication and Play among Infants  Journal Of Early Childhood Research,10(3), 309-317.
 
->Sossin, K. M., & Cohen, P. (2011). Children's play in the wake of loss and trauma.Â Journal Of Infant, Child & Adolescent >Psychotherapy,Â 10(2-3), 255-272. doi:10.1080/15289168.2011.600137
+>Sossin, K. M., & Cohen, P. (2011). Children's play in the wake of loss and trauma  Journal Of Infant, Child & Adolescent Psychotherapy  10(2-3), 255-272. doi:10.1080/15289168.2011.600137
 
 >Winerman, L. (2009). Playtime in Peril. American Psychological Association. Retrieved from print version: page 50.
 
->Wyss, N. M., Kannass, K. N., & Haden, C. A. (2013). The effects of distraction on cognitive task performance during toddlerhood.Â Infancy,Â 18(4), 604-628. doi:10.1111/j.1532-7078.2012.00128.x
+>Wyss, N. M., Kannass, K. N., & Haden, C. A. (2013). The effects of distraction on cognitive task performance during toddlerhood  Infancy  18(4), 604-628. doi:10.1111/j.1532-7078.2012.00128.x
 
->Vaillant-Molina, M. v., & Bahrick, L. E. (2012). The Role of Intersensory Redundancy in the Emergence of Social Referencing in 5 1/2->Month-Old Infants.Â Developmental Psychology,Â 48(1), 1-9
+>Vaillant-Molina, M. v., & Bahrick, L. E. (2012). The Role of Intersensory Redundancy in the Emergence of Social Referencing in 5 1/2-Month-Old Infants  Developmental Psychology,Â 48(1), 1-9
