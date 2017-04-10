@@ -34,7 +34,7 @@ Physical development of young children can be divided into two types: fine motor
 
 Not only do educators and parents need to make sure there is physical activities for the infants and toddlers to do that are developmentally appropriate, but infants and toddlers also need to be eating well in order to achieve their physical development (Deiner & Wei, 2007). Children need to be growing, but as they grow, they need a balanced and healthy diet. This will help children fight obesity, have better mood levels, and are more likely to succeed cognitively and socially. 
 
-References
+### References
 
 >Crugnola, C. R., Gazzotti, S., Spinelli, M., Ierardi, E., Caprin, C., & Albizzati, A. (2013). Maternal attachment influences mother-infant styles of regulation and play with objects at nine months _Attachment & Human Development_ 15(2), 107-131. doi:10.1080/14616734.2013.745712
 
