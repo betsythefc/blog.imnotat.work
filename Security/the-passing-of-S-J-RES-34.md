@@ -1,4 +1,4 @@
-Title: The passing of S. J. RES. 34
+Title: The Passing of S. J. RES. 34
 Author: Bryce McNab
 Tags: Politics, Privacy
 Date: 3/31/17
