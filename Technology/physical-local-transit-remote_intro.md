@@ -1,8 +1,7 @@
 Title: The 4 stages of data protection
 Author: Bryce McNab
 Date: 3/5/17
-Category: Security
-Tags: Alice and Bob
+Tags: Alice and Bob, Security
 
 ## The 4 stages
 

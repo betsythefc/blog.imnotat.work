@@ -1,7 +1,6 @@
 Title: The 4 stages of data protection: In Transit
 Author: Bryce McNab
-Category: Security
-Tags: Encryption
+Tags: Encryption, Security
 Status: published
 Date: 3/20/17
 
