@@ -24,13 +24,13 @@ Welcome to the very first overland trip report of our fair group. This last week
 
 >(Insert Nick's successful attempt to get up the hill)
 
->Bryce: So there you go, we are up on the little hill (mind you the "hill is ~15-20 feet tall) but still. 
+>Bryce: So there you go, we are up on the little hill (mind you the hill is ~15-20 feet tall) but still. 
 
 >Bryce: Sam is leading the pack, with me playing caboose. We continue up the hill to get to the main trails (Mc Cray and Foothill) where Sam's rearend slips and ends up half off the trail. The mud is everywhere.
 
 ##Oh god, the mud
 
->So, with me bolting up that hill earlier, I, the noob, somehow ended up in front. I understand my car is a beast but I didn't know jack shit about jack shit, plus I was still in 2WD. We tried going up one way and I started slipping so that didn't work. So we tried a different direction and that didn't work. We finally tried the not so steep path to my right and that was all going fine until the back end of my car started going sideways into the bushes because of the mud. I lost all traction and everytime I moved I came closer and closer to rolling down the hill.(Insert Sarah on how she get stuck.)
+>So, with me bolting up that hill earlier, I, the noob, somehow ended up in front. I understand my car is a beast but I didn't know jack shit about jack shit, plus I was still in 2WD. We tried going up one way and I started slipping so that didn't work. So we tried a different direction and that didn't work. We finally tried the not so steep path to my right and that was all going fine until the back end of my car started going sideways into the bushes because of the mud. I lost all traction and everytime I moved I came closer and closer to rolling down the hill.
 
 >Bryce: Although we are pretty new to offroading, we are wiser than the first time we went out. Nick and I actually brought tow straps (that story's for another day). Since I was pulling rear guard, I got out to assess the situation, see if I could help. Half way between Rocky (Nick's Daihatsu Rocky) and Topaz (Sam's Jeep XJ), my cheap cleat-style shoes met the most wonderful mud, resulting in the entirety of my chest, hands, lower legs and knees covered in it. I was able to get back up, only to be comically pulled back down to the moist ground; twice. Once stabilizing myself on Sam's truck I was able to get a bearing (lol) on the situation.
 
