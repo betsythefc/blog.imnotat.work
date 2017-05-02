@@ -1,8 +1,8 @@
 Author: Bailey McNab
 Title: Parenting Styles, Family Functioning, and Parental Stress in Parents of Children with Autism Spectrum Disorder
-Date: 4/1/17
+Date: 5/2/17
 Tags: Autism, Children, Essays
-Status: draft
+Status: publish
 
 Many complication can occur in regards to the development of children. There can physical disabilities and development delays. Some of those disabilities and delays can be detected in the prenatal stages of life. Others are more difficult to detect, such as Autism Spectrum Disorder (ASD). ASD can be detected through the developmental track of individual children. Some of the signs and symptoms of ASD are atypical social skills, lack of speech and eye contact, sensory sensitivity, and self-regulatory issue. Children with ASD need early intervention depending on where they land on the spectrum (if they are low functioning or high functioning). Early intervention programs and activities may include speech therapy, occupational therapy, and behavioral therapy, depending on how functioning the child is and what kind of symptoms he or she is experiencing. Some of these therapies can be just a few hours to as many as twenty hours a week. Parents and/or caregivers can attend with their child, and some can just drop the child off at the therapy office. Either way, parents and caregivers need to be incredibly involved and invested in their child’s future. Having a child with ASD can be costly, financially and emotionally. This paper will address the question: Does ASD have an effect on family function and parental anxiety. ASD does have an impact on the parenting styles, family functioning, and parental stress. First, this paper will discuss some of the background of ASD such as how it is detected and the two main researchers of ASD. The following sections will discuss research performed on families in respects to daily life and how it is different and challenging for parents who have children with ASD. Lastly, this paper will be putting forth recommendations to parents of children with ASD based on the research presented.
 
