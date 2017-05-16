@@ -1,7 +1,8 @@
 Title: Leave No Trace
 Author: Bryce McNab
+Date: 5/16/2017
 Tags: Camping, Hiking
-Status: draft
+Status: published
 
 In the offroading, camping, hiking, and general outdoor communities, there is the philosophy of "Leave No Trace". 
 
