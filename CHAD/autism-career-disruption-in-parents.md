@@ -1,6 +1,6 @@
 Title: Autism: Career Disruption in Parents
 Author: Bailey McNab
-Tags: 
+Tags: Autism, children, development, career, disruption, depression, parents
 Date: 5/29/2017
 Status: Draft
 
