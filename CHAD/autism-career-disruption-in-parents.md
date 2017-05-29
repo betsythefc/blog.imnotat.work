@@ -2,7 +2,7 @@ Title: Autism: Career Disruption in Parents
 Author: Bailey McNab
 Tags: Autism, Career Disruption, Parental Well-being
 Date: 5/29/2017
-Status: Draft
+Status: published
 
 Career disruption is one of the outcomes of a child becoming diagnosed with Autism Spectrum Disorder (ASD). In a study performed by Stoner, J. and Stoner, C. (2016), out of 326 families, 60% of the mothers stated that they could not continue back to work because of the needs of the child with ASD . Those who remained employed had a reduction of work hours, turned down promotion opportunities, or took leaves of absences to care for the child. In this study, eight married couples were interviewed. When a child receives this diagnosis, they are often drawn into multiple forms of intervention. This can often cause the parents to experience career disruption. This is usually the time in which one or both parents need to resign or back off from a current job to attend to their child. This study was a qualitative study that included eight married couples, or 16 individuals. The information was gathered through interviews of these individuals included the stresses of the career disruption process, the impact of career disruption, and the transition of life meaning and personal significance. 
 
