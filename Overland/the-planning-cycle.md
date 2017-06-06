@@ -12,7 +12,7 @@ I'm currently on the 3rd iteration of the sleeping platform design, where I have
 - Ease of construction
 - Ease of setup
 
-These are pretty common components that go into sleeping platforms. Through my research I have found many sleeping platforms that rely on a full wooden contruction, where all of the weight bearing is done internally, and it ends up as a self contained box that I would sleep atop. Although this works so well in modern pickup trucks and SUVs, and for 90% of overland campers, having to store a massive box outside of the truck during my not-camping time (I know, such a terrible thought), I wanted a more compact solution.
+These are pretty common components that go into sleeping platforms. Through my research I have found many sleeping platforms that rely on a full wooden construction, where all of the weight bearing is done internally, and it ends up as a self contained box that I would sleep atop. Although this works so well in modern pickup trucks and SUVs, and for 90% of overland campers, having to store a massive box outside of the truck during my not-camping time (I know, such a terrible thought), I wanted a more compact solution.
 
 My first full design included 3 cross beam 2x4 studs that would mount to the top of the pickup bed of the FC, where a plywood sheet would go across to create the hard surface to sleep on. All storage underneath would be in bins, and when it's packed away, it would be a much smaller footprint. I still had to contend with the weight, which overall was over 100lbs. That seemed too heavy for me, and actually setting it up at the campsite would be difficult to get it secure. This idea needed work.
 
