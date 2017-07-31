@@ -27,10 +27,10 @@ A Key result should be A clearly defined milestone that is easily evidenced and 
 
 Taking our example above, here is what that OKR might look like:
 
-- Learn Basic Python
-  - Read Chapter 1 of "Python for Dummies".
-  - Completed practice scripts in Chapter 1 of "Python for Dummies".
-  - Re-write a previous basic Bash shell script in Pythong (Bash being another scripting language I know well)
+* Learn Basic Python
+  * Read Chapter 1 of "Python for Dummies".
+  * Completed practice scripts in Chapter 1 of "Python for Dummies".
+  * Re-write a previous basic Bash shell script in Pythong (Bash being another scripting language I know well)
 
 The 3 Key results above are easy to understand, and can be definitively marked as complete with stark evidence that they have been completed. This is important. For example you wouldn't want a Key Result to say "Study Python" because it doesn't list how long to study, what to study and how you know that the studying has been effective.
 
