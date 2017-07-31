@@ -27,7 +27,7 @@ A Key result should be A clearly defined milestone that is easily evidenced and 
 
 Taking our example above, here is what that OKR might look like:
 
-* Learn Basic Python
+Learn Basic Python:
  * Read Chapter 1 of "Python for Dummies".
  * Completed practice scripts in Chapter 1 of "Python for Dummies".
  * Re-write a previous basic Bash shell script in Pythong (Bash being another scripting language I know well)
