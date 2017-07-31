@@ -2,7 +2,7 @@ Title: OKR: Objectives and Key Results
 Author: Bryce McNab
 Tags: Time Management
 Date: 7/31/17
-Status: draft
+Status: published
 
 _Holy incommunicado Batman!_
 
