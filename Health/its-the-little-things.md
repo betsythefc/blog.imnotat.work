@@ -17,7 +17,7 @@ Well, I kind of do, but today I wanted to rant a bit about the physical bags I h
 First, there are 2 types of diabetes:
 
 Type 1
-: An auto-immune disease that [destroyes cells in your pancreas called beta cells](http://www.webmd.com/diabetes/type-1-diabetes-guide/type-1-diabetes#1).
+: An auto-immune disease that [destroys cells in your pancreas called beta cells](http://www.webmd.com/diabetes/type-1-diabetes-guide/type-1-diabetes#1).
 
 Type 2
 : A person produces the proper amount of insulin, [but their cells don't use it as well as they should. Doctors call this insulin resistance](http://www.webmd.com/diabetes/type-2-diabetes-guide/type-2-diabetes#1).
@@ -38,7 +38,7 @@ But that isn't the only thing I have to carry. I also have a pack that I keep wi
 
 My biggest complaint so far about all this, despite cursing any higher power I can think of for my condition, is the AA batteries.
 
-I try my best not to waste, and the idea that I have to use AA batteries instead of an integrated battery, similar to my smart phone, that can be charged with a Micro-USB cable really bothers me. I'm currently using rechargeable batteries. This is probably the best sitaution that I can do right now, but it has it's flaws. If the batteries aren't at exactly 100% when you put them in the insulin pump, the pump will reject the battery and it won't work until you charge them. This means that I have to keep batteries topped off all the time. This also means I have to carry multiple rechargeable batteries in case, and a non-rechargeable if they all fail. On top of that, I can't top batteries off when I am out in the field or at work, or enjoying my time at the beach, because the chargers I have aren't USB powered. So I have to keep them charged at home, and keep them topped off in my kit.
+I try my best not to waste, and the idea that I have to use AA batteries instead of an integrated battery, similar to my smart phone, that can be charged with a Micro-USB cable really bothers me. I'm currently using rechargeable batteries. This is probably the best sitaution that I can do right now, but it has its flaws. If the batteries aren't at exactly 100% when you put them in the insulin pump, the pump will reject the battery and it won't work until you charge them. This means that I have to keep batteries topped off all the time. This also means I have to carry multiple rechargeable batteries in case, and a non-rechargeable if they all fail. On top of that, I can't top batteries off when I am out in the field or at work, or enjoying my time at the beach, because the chargers I have aren't USB powered. So I have to keep them charged at home, and keep them topped off in my kit.
 
 Why haven't insulin pump manufacturers put Micro-USB ports on the pumps to recharge them? Why do I have to either increase my wastefullness by using one time use batteries, or go with the massive headache of maintaining a small stockpile of rechargeables!
 
