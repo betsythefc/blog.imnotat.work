@@ -2,7 +2,7 @@ title: It's the Little Things
 author: Bryce McNab
 date: 08/10/2017
 tags: Diabetes
-status: draft
+status: published
 
 # That really piss me off
 
