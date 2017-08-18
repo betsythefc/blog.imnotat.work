@@ -5,13 +5,13 @@ status: draft
 
 Most people own a laptop of some kind. I have 3 currently:
 
-+ Work Macbook Prp
++ Work Macbook Pro
 + Personal HP Envy
 + Pinebook
 
 Everyone knows what a Mac is, and most people have heard of HP. But what the heck is a Pinebook?
 
-A pinebook is a laptop developed by a company, pine64, who build a competitor to the famouse RaspberryPi, a small sungle board computer, that uses the same types of components you would normally find in an android smartphone.
+A pinebook is a laptop developed by a company, pine64, who build a competitor to the famous RaspberryPi, a small single board computer, that uses the same types of components you would normally find in an android smartphone.
 
 My first exposure to pine64 was buying one of the starter sets that currently hosts this blog. It funnily enough sits on top of my PS4 at home.
 
