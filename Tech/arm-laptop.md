@@ -1,7 +1,7 @@
 title: A quick PineBook review
 author: Bryce McNab
 date: 8/18/17
-status: draft
+status: published
 
 Most people own a laptop of some kind. I have 3 currently:
 
