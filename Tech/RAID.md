@@ -1,7 +1,7 @@
 Title: What is RAID?
 Author: Bryce McNab
-Date: 5/17/2017
-Status: draft
+Date: 8/23/2017
+Status: published
 
 Oh no! Your hard drive crashed. After pulling a long night of data recovery, you finally think to yourself "how can I stop this from happening again?" 
 
