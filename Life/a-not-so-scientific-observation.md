@@ -1,7 +1,7 @@
 title: A not so Scientific Observation
 date: 09/06/2017
 author: Bryce McNab
-status: draft
+status: published
 
 One morning, about 2 weeks ago, I had walked out of my home to drive to work, and noticed that the driver side rear tire was pretty low. Not enough to cause me any concern (as I wasn't going to be driving any faster than 30mph). I thought, "Hey, I always let someone know their tire is low if I see it", I purposefully left the tire low, and drove to work.
 
