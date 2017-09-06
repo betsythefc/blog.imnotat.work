@@ -50,3 +50,7 @@ The most modern Jeep Cherokee, has been entirely re-designed from the ground up.
 
 Jeep KL:
 <p><a href="https://commons.wikimedia.org/wiki/File:Jeep_Cherokee_2.0_MulitJet_4WD_Limited_(KL)_%E2%80%93_Frontansicht,_30._August_2014,_D%C3%BCsseldorf.jpg#/media/File:Jeep_Cherokee_2.0_MulitJet_4WD_Limited_(KL)_%E2%80%93_Frontansicht,_30._August_2014,_D%C3%BCsseldorf.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Jeep_Cherokee_2.0_MulitJet_4WD_Limited_%28KL%29_%E2%80%93_Frontansicht%2C_30._August_2014%2C_D%C3%BCsseldorf.jpg" alt="Jeep Cherokee 2.0 MulitJet 4WD Limited (KL) – Frontansicht, 30. August 2014, Düsseldorf.jpg" height="343" width="640"></a><br>By <a href="https://de.wikipedia.org/wiki/Benutzer:M_93" class="extiw" title="de:Benutzer:M 93">M 93</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/de/deed.en" title="Creative Commons Attribution-Share Alike 3.0 de">CC BY-SA 3.0 de</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=35201542">Link</a></p>
+
+--
+
+Clearly this is not an exhaustive history, but pretty much a summary from multiple wikipedia articles which are wonderful resources. I am a fan of pretty much the entire Cherokee line, and I hope to deep dive into each model more in the future.
