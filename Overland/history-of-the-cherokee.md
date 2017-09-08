@@ -2,7 +2,7 @@ Title: History of the Cherokee
 Author: Bryce McNab
 Tags: History
 Date: 9/8/2017
-Status: draft
+Status: published
 
 Anyone who likes offroading and overland knows of the Jeep Cherokee. It's affordability and saturated after-market support, paired with Jeeps famous 4.0 Liter inline 6 made it one of the most popular SUVs in America, both on and off the highway.
 
