@@ -1,5 +1,6 @@
 title: My FOIA (Freedom of Information Act) records
 author: Bryce McNab
+date: 09/18/2017
 tags: surveillance
 status: draft
 
