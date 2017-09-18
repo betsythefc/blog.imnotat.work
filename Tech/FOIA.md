@@ -6,7 +6,7 @@ status: draft
 
 I'm generally considered a rather paranoid person because of the level of mistrust I place in anything I don't have control over. I employ encryption wherever possible, and I move my private data either to self-hosted solutions or to companies that use encryption that utilizes my own keys so they cannot read what I store.
 
-I also, in general, distrust all government agencies to safely and securely handle data they collect about me. But thinking aong these lines, I have no idea what the government knows about me. So I dug a little, and found FOIA. FOIA is the *F*reedom *o*f *I*nformation *A*ct that allows anyone to query gonvernmental organizations for information about themselves (you typically can't place a FOIA request for another person).
+I also, in general, distrust all government agencies to safely and securely handle data they collect about me. But thinking along these lines, I have no idea what the government knows about me. So I dug a little, and found FOIA. FOIA is the *F*reedom *o*f *I*nformation *A*ct that allows anyone to query gonvernmental organizations for information about themselves (you typically can't place a FOIA request for another person).
 
 So, here are the agencies, according to the [FOIA website](https://www.foia.gov/report-makerequest.html) that I can make FOIA requests against.
 
