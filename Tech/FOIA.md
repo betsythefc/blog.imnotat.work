@@ -2,7 +2,7 @@ title: My FOIA (Freedom of Information Act) records
 author: Bryce McNab
 date: 09/18/2017
 tags: surveillance
-status: draft
+status: published
 
 I'm generally considered a rather paranoid person because of the level of mistrust I place in anything I don't have control over. I employ encryption wherever possible, and I move my private data either to self-hosted solutions or to companies that use encryption that utilizes my own keys so they cannot read what I store.
 
