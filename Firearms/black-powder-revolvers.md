@@ -7,7 +7,7 @@ I've been thinking about ways to broach the subject of firearms on this blog. Th
 
 As liberal as I am, I do enjoy firearms and heavily support _smart_ gun regulations. With that, let's dig into the kinds of firearms I own and prefer.
 
-## An old classice, just like me...
+## An old classic, just like me...
 My preferred vintage of firearms covers the entire 19th century, into World War 1. At the start of the 1800s, we saw what firearms had been for 200 years or so, where the shooter had to poor powder and ball into the front of the gun (muzzle) and press them down with a rod of some sort. These are called 'muzzleloaders' for that reason. The 1800s were a serious time of innovation in most areas of life including firearms. The first repeating arms (firearms that you didn't have to reload after every shot) were introduced: The Revolver. I have 2 reproduction civil war era revolving handguns: The Confederate 1851 Navy Colt, and the Union 1858 New Army Remington. I do not purchase firearms as wall hangers, so these of course are in good working order and shoot well.
 
 Both of these revolvers are incredibly fun to shoot, however unlike modern revolvers, the reloading process is much closer to the muskets of yester-century than today: I poor powder into each of the 6 chambers in the cylinder, and press a ball into the chamber. I then put ignition caps on the back, which the hammer strikes to fire the charge. Both of these handguns produce loads of smoke. Why? Because black powder.
