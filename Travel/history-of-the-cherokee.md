@@ -1,6 +1,6 @@
 Title: History of the Cherokee
 Author: Bryce McNab
-Tags: History
+Tags: Overland, History
 Date: 9/8/2017
 Status: published
 

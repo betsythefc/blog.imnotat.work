@@ -1,6 +1,6 @@
 Title: Hollister Hills SRVA Trip Report (April 8th - 9th)
 Authors: Bryce McNab, Sam, Nicholas Agredano
-Tags: Trip Report
+Tags: Overland, Trip Report
 Date: 4/12/17
 Status: draft
 

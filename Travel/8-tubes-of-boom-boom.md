@@ -1,7 +1,6 @@
 Title: 8 Tubes of boom-boom
 Author: Bryce McNab
-Category: Overland
-Tags: FC-170, Builds
+Tags: Overland, FC-170, Builds
 Date: 3/6/17
 
 Progress on a project is always accompanied by a great feeling of satisfaction.

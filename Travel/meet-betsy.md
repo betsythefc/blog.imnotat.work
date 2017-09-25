@@ -1,8 +1,7 @@
 Title: Meet Betsy
 Author: Bryce McNab
-Category: Overland
 Date: 02/26/17
-Tags: FC-170, Builds
+Tags: Overland, FC-170, Builds
 
 ## Meet Betsy, my FC-170.
 A while ago I purchased a 1959 Jeep FC-170. These trucks are pretty rare and have seen an upsurge in popularity recently because of the debut of the _Mighty FC_ at the Easter Jeep Safari several years ago (2014 I think). That is when I fell in love with the cab over style and "pug-face" of the FC.
