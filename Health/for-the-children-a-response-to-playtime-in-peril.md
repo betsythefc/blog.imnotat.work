@@ -1,5 +1,4 @@
 Title: For the Children: A Response to "Playtime in Peril"
-Category: CHAD
 Date: 02/22/17 11:56
 Authors: Bailey McNab
 Tags: Essays, Children, CHAD
