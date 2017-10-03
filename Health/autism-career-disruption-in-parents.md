@@ -1,6 +1,6 @@
 Title: Autism: Career Disruption in Parents
 Author: Bailey McNab
-Tags: Autism, Career Disruption, Parental Well-being
+Tags: Autism, Career Disruption, Parental Well-being, CHAD
 Date: 5/29/2017
 Status: published
 

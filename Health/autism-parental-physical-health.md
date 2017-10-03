@@ -1,6 +1,6 @@
 Title: Autism: Parental Physical Health
 Author: Bailey McNab
-Tags: Memory, Parental Well-being, Autism, Health
+Tags: Memory, Parental Well-being, Autism, Health, CHAD
 Date: 5/31/2017
 Status: published
 

@@ -1,6 +1,6 @@
 Title: Autism: Parental Partner Intimacy
 Author: Bailey McNab
-Tags: Autism, Parental well-being, intimacy, communication, socialization
+Tags: Autism, Parental well-being, intimacy, communication, socialization, CHAD
 Date: June 2, 2017
 Status: published
 
